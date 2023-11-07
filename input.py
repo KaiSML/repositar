@@ -9,3 +9,4 @@ elif user == "adam":
     print(user+"e bez do pici")
 else:
     print("cusbus")
+// komentar
